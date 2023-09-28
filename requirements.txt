@@ -3,5 +3,5 @@ scipy
 matplotlib
 keras
 tensorflow
-sklearn
+scikit-learn
 pandas
